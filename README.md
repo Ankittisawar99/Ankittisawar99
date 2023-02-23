@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/126158909/220890686-75897708-50e3-411d-96c6-3409a3148a0a.gif">
+<img align="right" width="300" alt="coding" src="https://user-images.githubusercontent.com/126158909/220890686-75897708-50e3-411d-96c6-3409a3148a0a.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankittisawar99&label=Profile%20views&color=0e75b6&style=flat" alt="ankittisawar99" /> </p>
 
 - 📫 How to reach me **ankittisawar786@gmail.com**
